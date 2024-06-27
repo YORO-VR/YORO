@@ -1,0 +1,132 @@
+Scene Bistro: Xiao: 77.36
+Scene Chat: Xiao: 83.55
+Scene Conference: Xiao: 90.57
+Scene Sponza: Xiao: 102.02
+Scene LostEmpire: Xiao: 101.17
+Scene Prototype: Xiao: 91.72
+Scene SciFiCity: Xiao: 98.72
+Scene UnityChan: Xiao: 51.70
+Xiao: 77.4 83.5 90.6 102.0 101.2 91.7 98.7 51.7 
+Avg Xiao: 90.06
+
+Scene Bistro: Median: 107.23
+Scene Chat: Median: 119.55
+Scene Conference: Median: 96.00
+Scene Sponza: Median: 119.49
+Scene LostEmpire: Median: 119.58
+Scene Prototype: Median: 119.30
+Scene SciFiCity: Median: 109.63
+Scene UnityChan: Median: 119.63
+Median: 107.2 119.5 96.0 119.5 119.6 119.3 109.6 119.6 
+Avg Median: 112.97
+
+Scene Bistro: NS: 10.25
+Scene Chat: NS: 10.10
+Scene Conference: NS: 11.52
+Scene Sponza: NS: 12.18
+Scene LostEmpire: NS: 12.95
+Scene Prototype: NS: 9.46
+Scene SciFiCity: NS: 12.22
+Scene UnityChan: NS: 7.89
+NS: 10.2 10.1 11.5 12.2 12.9 9.5 12.2 7.9 
+Avg NS: 11.11
+
+Scene Bistro: Telea: 8.31
+Scene Chat: Telea: 8.60
+Scene Conference: Telea: 7.67
+Scene Sponza: Telea: 5.81
+Scene LostEmpire: Telea: 6.83
+Scene Prototype: Telea: 3.99
+Scene SciFiCity: Telea: 7.61
+Scene UnityChan: Telea: 4.27
+Telea: 8.3 8.6 7.7 5.8 6.8 4.0 7.6 4.3 
+Avg Telea: 6.52
+
+Scene Bistro: YORO: 103.26
+Scene Chat: YORO: 119.73
+Scene Conference: YORO: 119.40
+Scene Sponza: YORO: 119.45
+Scene LostEmpire: YORO: 119.63
+Scene Prototype: YORO: 119.28
+Scene SciFiCity: YORO: 111.48
+Scene UnityChan: YORO: 119.76
+YORO: 103.3 119.7 119.4 119.5 119.6 119.3 111.5 119.8 
+Avg YORO: 115.92
+
+Scene Bistro: Xiao: 75.20
+Scene Chat: Xiao: 91.18
+Scene Conference: Xiao: 81.48
+Scene Sponza: Xiao: 72.25
+Scene LostEmpire: Xiao: 71.44
+Scene Prototype: Xiao: 75.78
+Scene SciFiCity: Xiao: 80.02
+Scene UnityChan: Xiao: 80.32
+Xiao: 75.2 91.2 81.5 72.2 71.4 75.8 80.0 80.3 
+Avg Xiao: 76.81MB
+
+Scene Bistro: Median: 75.11
+Scene Chat: Median: 91.10
+Scene Conference: Median: 81.39
+Scene Sponza: Median: 72.16
+Scene LostEmpire: Median: 71.35
+Scene Prototype: Median: 75.72
+Scene SciFiCity: Median: 79.96
+Scene UnityChan: Median: 80.29
+Median: 75.1 91.1 81.4 72.2 71.4 75.7 80.0 80.3 
+Avg Median: 76.74MB
+
+Scene Bistro: NS: 78.30
+Scene Chat: NS: 94.29
+Scene Conference: NS: 84.57
+Scene Sponza: NS: 75.35
+Scene LostEmpire: NS: 74.54
+Scene Prototype: NS: 78.88
+Scene SciFiCity: NS: 83.11
+Scene UnityChan: NS: 83.38
+NS: 78.3 94.3 84.6 75.4 74.5 78.9 83.1 83.4 
+Avg NS: 79.88MB
+
+Scene Bistro: Telea: 78.26
+Scene Chat: Telea: 94.25
+Scene Conference: Telea: 84.54
+Scene Sponza: Telea: 75.32
+Scene LostEmpire: Telea: 74.51
+Scene Prototype: Telea: 78.85
+Scene SciFiCity: Telea: 83.08
+Scene UnityChan: Telea: 83.35
+Telea: 78.3 94.3 84.5 75.3 74.5 78.8 83.1 83.3 
+Avg Telea: 79.89MB
+
+Scene Bistro: YORO: 68.30
+Scene Chat: YORO: 86.65
+Scene Conference: YORO: 76.95
+Scene Sponza: YORO: 67.72
+Scene LostEmpire: YORO: 66.91
+Scene Prototype: YORO: 73.11
+Scene SciFiCity: YORO: 79.19
+Scene UnityChan: YORO: 80.23
+YORO: 68.3 86.6 76.9 67.7 66.9 73.1 79.2 80.2 
+Avg YORO: 73.30MB
+
+Scene Bistro: GAN: 136842.55
+Scene Chat: GAN: 22694.20
+Scene Conference: GAN: 22671.91
+Scene Sponza: GAN: 23028.91
+Scene LostEmpire: GAN: 22350.73
+Scene Prototype: GAN: 23014.64
+Scene SciFiCity: GAN: 22244.18
+Scene UnityChan: GAN: 22983.27
+GAN: 136842.5 22694.2 22671.9 23028.9 22350.7 23014.6 22244.2 22983.3 
+Avg GAN: 37142.99ms
+
+Scene Bistro: GAN: 189.19
+Scene Chat: GAN: 178.19
+Scene Conference: GAN: 167.74
+Scene Sponza: GAN: 148.19
+Scene LostEmpire: GAN: 145.19
+Scene Prototype: GAN: 168.80
+Scene SciFiCity: GAN: 158.25
+Scene UnityChan: GAN: 168.74
+GAN: 189.2 178.2 167.7 148.2 145.2 168.8 158.3 168.7 
+Avg GAN: 165.39MB
+

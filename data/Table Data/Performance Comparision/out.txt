@@ -1,0 +1,1107 @@
+Honor30
+Scene Bistro: YORO: 32.37
+Scene Chat: YORO: 49.90
+Scene Conference: YORO: 49.21
+Scene Sponza: YORO: 48.14
+Scene LostEmpire: YORO: 43.41
+Scene Prototype: YORO: 47.11
+Scene SciFiCity: YORO: 37.22
+Scene UnityChan: YORO: 44.26
+YORO: 32.4 49.9 49.2 48.1 43.4 47.1 37.2 44.3 
+Avg YORO: 43.03 23.24ms
+
+Scene Bistro: Conventional: 14.46
+Scene Chat: Conventional: 18.50
+Scene Conference: Conventional: 19.46
+Scene Sponza: Conventional: 18.94
+Scene LostEmpire: Conventional: 18.55
+Scene Prototype: Conventional: 19.04
+Scene SciFiCity: Conventional: 15.75
+Scene UnityChan: Conventional: 18.03
+Conventional: 14.5 18.5 19.5 18.9 18.6 19.0 15.8 18.0 
+Avg Conventional: 17.74 56.38ms
+
+Scene Bistro: Fink: 13.73
+Scene Chat: Fink: 16.10
+Scene Conference: Fink: 16.92
+Scene Sponza: Fink: 16.25
+Scene LostEmpire: Fink: 15.81
+Scene Prototype: Fink: 16.42
+Scene SciFiCity: Fink: 14.87
+Scene UnityChan: Fink: 15.03
+Fink: 13.7 16.1 16.9 16.2 15.8 16.4 14.9 15.0 
+Avg Fink: 15.62 64.03ms
+
+Honor8
+Scene Bistro: YORO: 10.74
+Scene Chat: YORO: 13.60
+Scene Conference: YORO: 15.85
+Scene Sponza: YORO: 15.83
+Scene LostEmpire: YORO: 14.39
+Scene Prototype: YORO: 15.53
+Scene SciFiCity: YORO: 12.20
+Scene UnityChan: YORO: 14.74
+YORO: 10.7 13.6 15.8 15.8 14.4 15.5 12.2 14.7 
+Avg YORO: 14.12 70.83ms
+
+Scene Bistro: Conventional: 4.61
+Scene Chat: Conventional: 6.00
+Scene Conference: Conventional: 6.07
+Scene Sponza: Conventional: 6.00
+Scene LostEmpire: Conventional: 6.00
+Scene Prototype: Conventional: 6.16
+Scene SciFiCity: Conventional: 4.85
+Scene UnityChan: Conventional: 6.00
+Conventional: 4.6 6.0 6.1 6.0 6.0 6.2 4.9 6.0 
+Avg Conventional: 5.66 176.82ms
+
+Scene Bistro: Fink: 4.75
+Scene Chat: Fink: 5.12
+Scene Conference: Fink: 6.22
+Scene Sponza: Fink: 5.83
+Scene LostEmpire: Fink: 5.22
+Scene Prototype: Fink: 5.76
+Scene SciFiCity: Fink: 5.25
+Scene UnityChan: Fink: 5.57
+Fink: 4.7 5.1 6.2 5.8 5.2 5.8 5.2 5.6 
+Avg Fink: 5.48 182.38ms
+
+Honor30s
+Scene Bistro: YORO: 33.08
+Scene Chat: YORO: 48.70
+Scene Conference: YORO: 49.29
+Scene Sponza: YORO: 48.12
+Scene LostEmpire: YORO: 45.10
+Scene Prototype: YORO: 47.54
+Scene SciFiCity: YORO: 36.82
+Scene UnityChan: YORO: 45.05
+YORO: 33.1 48.7 49.3 48.1 45.1 47.5 36.8 45.1 
+Avg YORO: 43.46 23.01ms
+
+Scene Bistro: Conventional: 14.24
+Scene Chat: Conventional: 18.00
+Scene Conference: Conventional: 19.52
+Scene Sponza: Conventional: 18.35
+Scene LostEmpire: Conventional: 18.18
+Scene Prototype: Conventional: 18.16
+Scene SciFiCity: Conventional: 15.16
+Scene UnityChan: Conventional: 17.53
+Conventional: 14.2 18.0 19.5 18.4 18.2 18.2 15.2 17.5 
+Avg Conventional: 17.28 57.86ms
+
+Scene Bistro: Fink: 13.10
+Scene Chat: Fink: 16.70
+Scene Conference: Fink: 16.80
+Scene Sponza: Fink: 15.28
+Scene LostEmpire: Fink: 15.80
+Scene Prototype: Fink: 15.94
+Scene SciFiCity: Fink: 14.16
+Scene UnityChan: Fink: 14.53
+Fink: 13.1 16.7 16.8 15.3 15.8 15.9 14.2 14.5 
+Avg Fink: 15.18 65.89ms
+
+SamsungS21
+Scene Bistro: YORO: 47.39
+Scene Chat: YORO: 74.36
+Scene Conference: YORO: 81.71
+Scene Sponza: YORO: 71.02
+Scene LostEmpire: YORO: 65.84
+Scene Prototype: YORO: 80.11
+Scene SciFiCity: YORO: 56.88
+Scene UnityChan: YORO: 78.40
+YORO: 47.4 74.4 81.7 71.0 65.8 80.1 56.9 78.4 
+Avg YORO: 68.24 14.65ms
+
+Scene Bistro: Conventional: 23.52
+Scene Chat: Conventional: 31.40
+Scene Conference: Conventional: 31.83
+Scene Sponza: Conventional: 30.48
+Scene LostEmpire: Conventional: 30.52
+Scene Prototype: Conventional: 30.80
+Scene SciFiCity: Conventional: 25.77
+Scene UnityChan: Conventional: 32.83
+Conventional: 23.5 31.4 31.8 30.5 30.5 30.8 25.8 32.8 
+Avg Conventional: 29.22 34.22ms
+
+Scene Bistro: Fink: 24.37
+Scene Chat: Fink: 31.10
+Scene Conference: Fink: 31.81
+Scene Sponza: Fink: 29.72
+Scene LostEmpire: Fink: 30.06
+Scene Prototype: Fink: 31.58
+Scene SciFiCity: Fink: 28.73
+Scene UnityChan: Fink: 31.62
+Fink: 24.4 31.1 31.8 29.7 30.1 31.6 28.7 31.6 
+Avg Fink: 29.70 33.67ms
+
+Mi6
+Scene Bistro: YORO: 25.69
+Scene Chat: YORO: 37.70
+Scene Conference: YORO: 38.10
+Scene Sponza: YORO: 37.06
+Scene LostEmpire: YORO: 34.80
+Scene Prototype: YORO: 35.32
+Scene SciFiCity: YORO: 27.12
+Scene UnityChan: YORO: 31.10
+YORO: 25.7 37.7 38.1 37.1 34.8 35.3 27.1 31.1 
+Avg YORO: 32.80 30.49ms
+
+Scene Bistro: Conventional: 12.42
+Scene Chat: Conventional: 14.70
+Scene Conference: Conventional: 14.33
+Scene Sponza: Conventional: 14.45
+Scene LostEmpire: Conventional: 14.22
+Scene Prototype: Conventional: 14.04
+Scene SciFiCity: Conventional: 12.59
+Scene UnityChan: Conventional: 14.00
+Conventional: 12.4 14.7 14.3 14.4 14.2 14.0 12.6 14.0 
+Avg Conventional: 13.70 72.98ms
+
+Scene Bistro: Fink: 12.45
+Scene Chat: Fink: 13.90
+Scene Conference: Fink: 13.90
+Scene Sponza: Fink: 13.52
+Scene LostEmpire: Fink: 13.29
+Scene Prototype: Fink: 13.60
+Scene SciFiCity: Fink: 12.48
+Scene UnityChan: Fink: 12.95
+Fink: 12.4 13.9 13.9 13.5 13.3 13.6 12.5 12.9 
+Avg Fink: 13.18 75.86ms
+
+SamsungS10
+Scene Bistro: YORO: 36.36
+Scene Chat: YORO: 57.27
+Scene Conference: YORO: 55.91
+Scene Sponza: YORO: 51.82
+Scene LostEmpire: YORO: 53.89
+Scene Prototype: YORO: 54.60
+Scene SciFiCity: YORO: 40.64
+Scene UnityChan: YORO: 52.48
+YORO: 36.4 57.3 55.9 51.8 53.9 54.6 40.6 52.5 
+Avg YORO: 49.41 20.24ms
+
+Scene Bistro: Conventional: 16.58
+Scene Chat: Conventional: 23.20
+Scene Conference: Conventional: 21.02
+Scene Sponza: Conventional: 18.18
+Scene LostEmpire: Conventional: 18.76
+Scene Prototype: Conventional: 18.60
+Scene SciFiCity: Conventional: 16.90
+Scene UnityChan: Conventional: 17.08
+Conventional: 16.6 23.2 21.0 18.2 18.8 18.6 16.9 17.1 
+Avg Conventional: 18.32 54.58ms
+
+Scene Bistro: Fink: 16.31
+Scene Chat: Fink: 19.00
+Scene Conference: Fink: 19.81
+Scene Sponza: Fink: 18.37
+Scene LostEmpire: Fink: 17.49
+Scene Prototype: Fink: 18.97
+Scene SciFiCity: Fink: 17.48
+Scene UnityChan: Fink: 19.77
+Fink: 16.3 19.0 19.8 18.4 17.5 19.0 17.5 19.8 
+Avg Fink: 18.22 54.89ms
+
+Quest2
+Scene Bistro: YORO: 58.81
+Scene Chat: YORO: 79.73
+Scene Conference: YORO: 82.46
+Scene Sponza: YORO: 82.53
+Scene LostEmpire: YORO: 78.63
+Scene Prototype: YORO: 77.27
+Scene SciFiCity: YORO: 64.10
+Scene UnityChan: YORO: 79.90
+YORO: 58.8 79.7 82.5 82.5 78.6 77.3 64.1 79.9 
+Avg YORO: 74.31 13.46ms
+
+Scene Bistro: Conventional: 38.30
+Scene Chat: Conventional: 51.60
+Scene Conference: Conventional: 57.67
+Scene Sponza: Conventional: 57.67
+Scene LostEmpire: Conventional: 51.42
+Scene Prototype: Conventional: 52.56
+Scene SciFiCity: Conventional: 41.43
+Scene UnityChan: Conventional: 53.83
+Conventional: 38.3 51.6 57.7 57.7 51.4 52.6 41.4 53.8 
+Avg Conventional: 49.88 20.05ms
+
+Scene Bistro: Fink: 33.54
+Scene Chat: Fink: 45.40
+Scene Conference: Fink: 51.70
+Scene Sponza: Fink: 44.71
+Scene LostEmpire: Fink: 42.36
+Scene Prototype: Fink: 48.56
+Scene SciFiCity: Fink: 44.15
+Scene UnityChan: Fink: 50.20
+Fink: 33.5 45.4 51.7 44.7 42.4 48.6 44.1 50.2 
+Avg Fink: 44.81 22.32ms
+
+Honor30
+Scene Bistro: YORO: 73.21
+Scene Chat: YORO: 91.48
+Scene Conference: YORO: 81.57
+Scene Sponza: YORO: 72.58
+Scene LostEmpire: YORO: 71.44
+Scene Prototype: YORO: 76.98
+Scene SciFiCity: YORO: 81.75
+Scene UnityChan: YORO: 82.09
+YORO: 73.2 91.5 81.6 72.6 71.4 77.0 81.8 82.1 
+Avg YORO: 77.25
+
+Scene Bistro: Conventional: 77.72
+Scene Chat: Conventional: 93.20
+Scene Conference: Conventional: 83.63
+Scene Sponza: Conventional: 74.54
+Scene LostEmpire: Conventional: 73.65
+Scene Prototype: Conventional: 77.95
+Scene SciFiCity: Conventional: 82.58
+Scene UnityChan: Conventional: 82.43
+Conventional: 77.7 93.2 83.6 74.5 73.7 77.9 82.6 82.4 
+Avg Conventional: 79.09
+
+Scene Bistro: Fink: 76.79
+Scene Chat: Fink: 92.00
+Scene Conference: Fink: 82.06
+Scene Sponza: Fink: 73.33
+Scene LostEmpire: Fink: 72.19
+Scene Prototype: Fink: 77.10
+Scene SciFiCity: Fink: 81.57
+Scene UnityChan: Fink: 81.58
+Fink: 76.8 92.0 82.1 73.3 72.2 77.1 81.6 81.6 
+Avg Fink: 77.96
+
+Honor8
+Scene Bistro: YORO: 73.50
+Scene Chat: YORO: 91.40
+Scene Conference: YORO: 81.60
+Scene Sponza: YORO: 72.61
+Scene LostEmpire: YORO: 71.80
+Scene Prototype: YORO: 77.16
+Scene SciFiCity: YORO: 81.98
+Scene UnityChan: YORO: 82.28
+YORO: 73.5 91.4 81.6 72.6 71.8 77.2 82.0 82.3 
+Avg YORO: 77.45
+
+Scene Bistro: Conventional: 77.63
+Scene Chat: Conventional: 93.25
+Scene Conference: Conventional: 83.53
+Scene Sponza: Conventional: 74.45
+Scene LostEmpire: Conventional: 73.42
+Scene Prototype: Conventional: 77.88
+Scene SciFiCity: Conventional: 82.88
+Scene UnityChan: Conventional: 82.55
+Conventional: 77.6 93.2 83.5 74.5 73.4 77.9 82.9 82.6 
+Avg Conventional: 79.14
+
+Scene Bistro: Fink: 77.45
+Scene Chat: Fink: 92.94
+Scene Conference: Fink: 83.28
+Scene Sponza: Fink: 74.24
+Scene LostEmpire: Fink: 73.21
+Scene Prototype: Fink: 77.74
+Scene SciFiCity: Fink: 82.40
+Scene UnityChan: Fink: 82.34
+Fink: 77.5 92.9 83.3 74.2 73.2 77.7 82.4 82.3 
+Avg Fink: 78.79
+
+Honor30s
+Scene Bistro: YORO: 73.19
+Scene Chat: YORO: 91.71
+Scene Conference: YORO: 81.55
+Scene Sponza: YORO: 72.74
+Scene LostEmpire: YORO: 71.66
+Scene Prototype: YORO: 76.84
+Scene SciFiCity: YORO: 81.73
+Scene UnityChan: YORO: 82.21
+YORO: 73.2 91.7 81.5 72.7 71.7 76.8 81.7 82.2 
+Avg YORO: 77.29
+
+Scene Bistro: Conventional: 77.77
+Scene Chat: Conventional: 92.95
+Scene Conference: Conventional: 83.55
+Scene Sponza: Conventional: 74.57
+Scene LostEmpire: Conventional: 73.59
+Scene Prototype: Conventional: 77.88
+Scene SciFiCity: Conventional: 82.59
+Scene UnityChan: Conventional: 82.39
+Conventional: 77.8 93.0 83.6 74.6 73.6 77.9 82.6 82.4 
+Avg Conventional: 79.07
+
+Scene Bistro: Fink: 76.74
+Scene Chat: Fink: 92.25
+Scene Conference: Fink: 82.14
+Scene Sponza: Fink: 73.33
+Scene LostEmpire: Fink: 72.09
+Scene Prototype: Fink: 77.11
+Scene SciFiCity: Fink: 81.44
+Scene UnityChan: Fink: 81.97
+Fink: 76.7 92.2 82.1 73.3 72.1 77.1 81.4 82.0 
+Avg Fink: 77.98
+
+SamsungS21
+Scene Bistro: YORO: 77.39
+Scene Chat: YORO: 95.59
+Scene Conference: YORO: 85.97
+Scene Sponza: YORO: 76.73
+Scene LostEmpire: YORO: 75.81
+Scene Prototype: YORO: 82.04
+Scene SciFiCity: YORO: 88.37
+Scene UnityChan: YORO: 89.12
+YORO: 77.4 95.6 86.0 76.7 75.8 82.0 88.4 89.1 
+Avg YORO: 82.30
+
+Scene Bistro: Conventional: 84.75
+Scene Chat: Conventional: 100.62
+Scene Conference: Conventional: 90.71
+Scene Sponza: Conventional: 81.70
+Scene LostEmpire: Conventional: 80.72
+Scene Prototype: Conventional: 85.19
+Scene SciFiCity: Conventional: 89.71
+Scene UnityChan: Conventional: 89.74
+Conventional: 84.8 100.6 90.7 81.7 80.7 85.2 89.7 89.7 
+Avg Conventional: 86.24
+
+Scene Bistro: Fink: 84.50
+Scene Chat: Fink: 100.48
+Scene Conference: Fink: 90.43
+Scene Sponza: Fink: 81.36
+Scene LostEmpire: Fink: 80.43
+Scene Prototype: Fink: 84.97
+Scene SciFiCity: Fink: 89.31
+Scene UnityChan: Fink: 89.50
+Fink: 84.5 100.5 90.4 81.4 80.4 85.0 89.3 89.5 
+Avg Fink: 85.97
+
+Mi6
+Scene Bistro: YORO: 77.43
+Scene Chat: YORO: 95.29
+Scene Conference: YORO: 85.50
+Scene Sponza: YORO: 76.56
+Scene LostEmpire: YORO: 75.45
+Scene Prototype: YORO: 81.87
+Scene SciFiCity: YORO: 88.15
+Scene UnityChan: YORO: 88.86
+YORO: 77.4 95.3 85.5 76.6 75.4 81.9 88.2 88.9 
+Avg YORO: 82.06
+
+Scene Bistro: Conventional: 84.53
+Scene Chat: Conventional: 100.30
+Scene Conference: Conventional: 90.44
+Scene Sponza: Conventional: 81.28
+Scene LostEmpire: Conventional: 80.39
+Scene Prototype: Conventional: 84.99
+Scene SciFiCity: Conventional: 89.53
+Scene UnityChan: Conventional: 89.46
+Conventional: 84.5 100.3 90.4 81.3 80.4 85.0 89.5 89.5 
+Avg Conventional: 85.97
+
+Scene Bistro: Fink: 84.46
+Scene Chat: Fink: 100.20
+Scene Conference: Fink: 90.26
+Scene Sponza: Fink: 81.33
+Scene LostEmpire: Fink: 80.38
+Scene Prototype: Fink: 84.87
+Scene SciFiCity: Fink: 89.47
+Scene UnityChan: Fink: 89.48
+Fink: 84.5 100.2 90.3 81.3 80.4 84.9 89.5 89.5 
+Avg Fink: 85.93
+
+SamsungS10
+Scene Bistro: YORO: 77.31
+Scene Chat: YORO: 95.32
+Scene Conference: YORO: 85.62
+Scene Sponza: YORO: 76.52
+Scene LostEmpire: YORO: 75.71
+Scene Prototype: YORO: 81.59
+Scene SciFiCity: YORO: 88.25
+Scene UnityChan: YORO: 88.94
+YORO: 77.3 95.3 85.6 76.5 75.7 81.6 88.3 88.9 
+Avg YORO: 82.08
+
+Scene Bistro: Conventional: 84.70
+Scene Chat: Conventional: 100.38
+Scene Conference: Conventional: 90.65
+Scene Sponza: Conventional: 81.41
+Scene LostEmpire: Conventional: 80.53
+Scene Prototype: Conventional: 85.00
+Scene SciFiCity: Conventional: 89.49
+Scene UnityChan: Conventional: 89.47
+Conventional: 84.7 100.4 90.6 81.4 80.5 85.0 89.5 89.5 
+Avg Conventional: 86.07
+
+Scene Bistro: Fink: 83.99
+Scene Chat: Fink: 99.52
+Scene Conference: Fink: 89.52
+Scene Sponza: Fink: 80.87
+Scene LostEmpire: Fink: 79.91
+Scene Prototype: Fink: 84.43
+Scene SciFiCity: Fink: 88.85
+Scene UnityChan: Fink: 89.00
+Fink: 84.0 99.5 89.5 80.9 79.9 84.4 88.8 89.0 
+Avg Fink: 85.39
+
+Quest2
+Scene Bistro: YORO: 77.09
+Scene Chat: YORO: 94.00
+Scene Conference: YORO: 85.00
+Scene Sponza: YORO: 76.36
+Scene LostEmpire: YORO: 75.00
+Scene Prototype: YORO: 81.55
+Scene SciFiCity: YORO: 88.34
+Scene UnityChan: YORO: 88.00
+YORO: 77.1 94.0 85.0 76.4 75.0 81.6 88.3 88.0 
+Avg YORO: 81.73
+
+Scene Bistro: Conventional: 77.41
+Scene Chat: Conventional: 95.48
+Scene Conference: Conventional: 85.68
+Scene Sponza: Conventional: 76.60
+Scene LostEmpire: Conventional: 75.85
+Scene Prototype: Conventional: 82.21
+Scene SciFiCity: Conventional: 90.30
+Scene UnityChan: Conventional: 91.04
+Conventional: 77.4 95.5 85.7 76.6 75.9 82.2 90.3 91.0 
+Avg Conventional: 82.76
+
+Scene Bistro: Fink: 76.94
+Scene Chat: Fink: 94.10
+Scene Conference: Fink: 85.02
+Scene Sponza: Fink: 76.37
+Scene LostEmpire: Fink: 75.03
+Scene Prototype: Fink: 81.39
+Scene SciFiCity: Fink: 87.98
+Scene UnityChan: Fink: 88.46
+Fink: 76.9 94.1 85.0 76.4 75.0 81.4 88.0 88.5 
+Avg Fink: 81.66
+
+======================= Framerate and Memory with SPI ==================================
+Honor30
+Scene Bistro: YORO: 38.76
+Scene Chat: YORO: 41.30
+Scene Conference: YORO: 54.48
+Scene Sponza: YORO: 53.10
+Scene LostEmpire: YORO: 53.09
+Scene Prototype: YORO: 58.04
+Scene SciFiCity: YORO: 47.29
+Scene UnityChan: YORO: 58.23
+YORO: 38.8 41.3 54.5 53.1 53.1 58.0 47.3 58.2 
+Avg YORO: 51.42 19.45ms
+
+Scene Bistro: Conventional: 26.62
+Scene Chat: Conventional: 41.10
+Scene Conference: Conventional: 44.44
+Scene Sponza: Conventional: 36.74
+Scene LostEmpire: Conventional: 37.94
+Scene Prototype: Conventional: 42.77
+Scene SciFiCity: Conventional: 32.89
+Scene UnityChan: Conventional: 40.85
+Conventional: 26.6 41.1 44.4 36.7 37.9 42.8 32.9 40.8 
+Avg Conventional: 37.49 26.67ms
+
+Scene Bistro: Fink: 35.69
+Scene Chat: Fink: 51.90
+Scene Conference: Fink: 56.46
+Scene Sponza: Fink: 39.60
+Scene LostEmpire: Fink: 46.42
+Scene Prototype: Fink: 54.26
+Scene SciFiCity: Fink: 45.09
+Scene UnityChan: Fink: 48.38
+Fink: 35.7 51.9 56.5 39.6 46.4 54.3 45.1 48.4 
+Avg Fink: 47.02 21.27ms
+
+Scene Bistro: SPI: 20.86
+Scene Chat: SPI: 49.40
+Scene Conference: SPI: 59.86
+Scene Sponza: SPI: 52.12
+Scene LostEmpire: SPI: 23.72
+Scene Prototype: SPI: 51.98
+Scene SciFiCity: SPI: 37.42
+Scene UnityChan: SPI: 61.15
+SPI: 20.9 49.4 59.9 52.1 23.7 52.0 37.4 61.1 
+Avg SPI: 42.74 23.40ms
+
+Honor8
+Scene Bistro: YORO: 19.02
+Scene Chat: YORO: 28.60
+Scene Conference: YORO: 28.35
+Scene Sponza: YORO: 25.24
+Scene LostEmpire: YORO: 20.41
+Scene Prototype: YORO: 23.78
+Scene SciFiCity: YORO: 16.91
+Scene UnityChan: YORO: 23.24
+YORO: 19.0 28.6 28.4 25.2 20.4 23.8 16.9 23.2 
+Avg YORO: 22.26 44.92ms
+
+Scene Bistro: Conventional: 7.69
+Scene Chat: Conventional: 10.40
+Scene Conference: Conventional: 14.02
+Scene Sponza: Conventional: 15.52
+Scene LostEmpire: Conventional: 12.73
+Scene Prototype: Conventional: 13.97
+Scene SciFiCity: Conventional: 10.21
+Scene UnityChan: Conventional: 15.92
+Conventional: 7.7 10.4 14.0 15.5 12.7 14.0 10.2 15.9 
+Avg Conventional: 12.61 79.27ms
+
+Scene Bistro: Fink: 8.48
+Scene Chat: Fink: 11.89
+Scene Conference: Fink: 13.37
+Scene Sponza: Fink: 14.68
+Scene LostEmpire: Fink: 12.38
+Scene Prototype: Fink: 15.30
+Scene SciFiCity: Fink: 12.87
+Scene UnityChan: Fink: 13.65
+Fink: 8.5 11.9 13.4 14.7 12.4 15.3 12.9 13.6 
+Avg Fink: 12.96 77.16ms
+
+Scene Bistro: SPI: 10.74
+Scene Chat: SPI: 7.67
+Scene Conference: SPI: 19.58
+Scene Sponza: SPI: 18.10
+Scene LostEmpire: SPI: 4.28
+Scene Prototype: SPI: 18.40
+Scene SciFiCity: SPI: 15.56
+Scene UnityChan: SPI: 34.85
+SPI: 10.7 7.7 19.6 18.1 4.3 18.4 15.6 34.8 
+Avg SPI: 16.24 61.56ms
+
+Honor30s
+Scene Bistro: YORO: 42.81
+Scene Chat: YORO: 58.00
+Scene Conference: YORO: 59.57
+Scene Sponza: YORO: 57.94
+Scene LostEmpire: YORO: 53.48
+Scene Prototype: YORO: 54.49
+Scene SciFiCity: YORO: 45.09
+Scene UnityChan: YORO: 48.26
+YORO: 42.8 58.0 59.6 57.9 53.5 54.5 45.1 48.3 
+Avg YORO: 51.76 19.32ms
+
+Scene Bistro: Conventional: 27.30
+Scene Chat: Conventional: 41.90
+Scene Conference: Conventional: 43.62
+Scene Sponza: Conventional: 40.47
+Scene LostEmpire: Conventional: 38.76
+Scene Prototype: Conventional: 39.11
+Scene SciFiCity: Conventional: 30.51
+Scene UnityChan: Conventional: 44.05
+Conventional: 27.3 41.9 43.6 40.5 38.8 39.1 30.5 44.1 
+Avg Conventional: 37.26 26.84ms
+
+Scene Bistro: Fink: 29.00
+Scene Chat: Fink: 37.60
+Scene Conference: Fink: 38.06
+Scene Sponza: Fink: 34.71
+Scene LostEmpire: Fink: 37.38
+Scene Prototype: Fink: 34.78
+Scene SciFiCity: Fink: 33.30
+Scene UnityChan: Fink: 38.13
+Fink: 29.0 37.6 38.1 34.7 37.4 34.8 33.3 38.1 
+Avg Fink: 34.98 28.59ms
+
+Scene Bistro: SPI: 19.30
+Scene Chat: SPI: 56.10
+Scene Conference: SPI: 59.69
+Scene Sponza: SPI: 40.16
+Scene LostEmpire: SPI: 21.55
+Scene Prototype: SPI: 47.59
+Scene SciFiCity: SPI: 35.80
+Scene UnityChan: SPI: 60.00
+SPI: 19.3 56.1 59.7 40.2 21.6 47.6 35.8 60.0 
+Avg SPI: 39.89 25.07ms
+
+SamsungS21
+Scene Bistro: YORO: 119.18
+Scene Chat: YORO: 119.33
+Scene Conference: YORO: 119.52
+Scene Sponza: YORO: 119.46
+Scene LostEmpire: YORO: 119.54
+Scene Prototype: YORO: 119.47
+Scene SciFiCity: YORO: 110.21
+Scene UnityChan: YORO: 119.76
+YORO: 119.2 119.3 119.5 119.5 119.5 119.5 110.2 119.8 
+Avg YORO: 117.73 8.49ms
+
+Scene Bistro: Conventional: 102.08
+Scene Chat: Conventional: 119.33
+Scene Conference: Conventional: 119.44
+Scene Sponza: Conventional: 116.41
+Scene LostEmpire: Conventional: 118.90
+Scene Prototype: Conventional: 111.71
+Scene SciFiCity: Conventional: 67.62
+Scene UnityChan: Conventional: 110.03
+Conventional: 102.1 119.3 119.4 116.4 118.9 111.7 67.6 110.0 
+Avg Conventional: 104.67 9.55ms
+
+Scene Bistro: Fink: 64.88
+Scene Chat: Fink: 119.00
+Scene Conference: Fink: 108.54
+Scene Sponza: Fink: 104.14
+Scene LostEmpire: Fink: 105.59
+Scene Prototype: Fink: 95.51
+Scene SciFiCity: Fink: 68.66
+Scene UnityChan: Fink: 109.26
+Fink: 64.9 119.0 108.5 104.1 105.6 95.5 68.7 109.3 
+Avg Fink: 91.39 10.94ms
+
+Scene Bistro: SPI: 56.32
+Scene Chat: SPI: 120.00
+Scene Conference: SPI: 119.88
+Scene Sponza: SPI: 106.17
+Scene LostEmpire: SPI: 57.09
+Scene Prototype: SPI: 97.64
+Scene SciFiCity: SPI: 78.05
+Scene UnityChan: SPI: 119.88
+SPI: 56.3 120.0 119.9 106.2 57.1 97.6 78.1 119.9 
+Avg SPI: 85.26 11.73ms
+
+Mi6
+Scene Bistro: YORO: 56.65
+Scene Chat: YORO: 60.00
+Scene Conference: YORO: 59.98
+Scene Sponza: YORO: 59.90
+Scene LostEmpire: YORO: 60.00
+Scene Prototype: YORO: 59.85
+Scene SciFiCity: YORO: 55.06
+Scene UnityChan: YORO: 59.97
+YORO: 56.7 60.0 60.0 59.9 60.0 59.9 55.1 60.0 
+Avg YORO: 58.66 17.05ms
+
+Scene Bistro: Conventional: 39.34
+Scene Chat: Conventional: 54.70
+Scene Conference: Conventional: 49.70
+Scene Sponza: Conventional: 51.42
+Scene LostEmpire: Conventional: 54.21
+Scene Prototype: Conventional: 42.69
+Scene SciFiCity: Conventional: 29.86
+Scene UnityChan: Conventional: 45.36
+Conventional: 39.3 54.7 49.7 51.4 54.2 42.7 29.9 45.4 
+Avg Conventional: 44.45 22.49ms
+
+Scene Bistro: Fink: 26.89
+Scene Chat: Fink: 54.00
+Scene Conference: Fink: 44.81
+Scene Sponza: Fink: 44.53
+Scene LostEmpire: Fink: 40.51
+Scene Prototype: Fink: 40.54
+Scene SciFiCity: Fink: 24.61
+Scene UnityChan: Fink: 45.00
+Fink: 26.9 54.0 44.8 44.5 40.5 40.5 24.6 45.0 
+Avg Fink: 37.72 26.51ms
+
+Scene Bistro: SPI: 29.67
+Scene Chat: SPI: 60.00
+Scene Conference: SPI: 60.00
+Scene Sponza: SPI: 56.52
+Scene LostEmpire: SPI: 33.42
+Scene Prototype: SPI: 46.80
+Scene SciFiCity: SPI: 40.33
+Scene UnityChan: SPI: 60.00
+SPI: 29.7 60.0 60.0 56.5 33.4 46.8 40.3 60.0 
+Avg SPI: 45.42 22.02ms
+
+SamsungS10
+Scene Bistro: YORO: 57.37
+Scene Chat: YORO: 60.00
+Scene Conference: YORO: 59.50
+Scene Sponza: YORO: 60.00
+Scene LostEmpire: YORO: 60.00
+Scene Prototype: YORO: 59.94
+Scene SciFiCity: YORO: 59.17
+Scene UnityChan: YORO: 60.00
+YORO: 57.4 60.0 59.5 60.0 60.0 59.9 59.2 60.0 
+Avg YORO: 59.28 16.87ms
+
+Scene Bistro: Conventional: 45.51
+Scene Chat: Conventional: 60.00
+Scene Conference: Conventional: 60.00
+Scene Sponza: Conventional: 59.80
+Scene LostEmpire: Conventional: 59.91
+Scene Prototype: Conventional: 59.56
+Scene SciFiCity: Conventional: 47.12
+Scene UnityChan: Conventional: 58.71
+Conventional: 45.5 60.0 60.0 59.8 59.9 59.6 47.1 58.7 
+Avg Conventional: 54.02 18.51ms
+
+Scene Bistro: Fink: 43.61
+Scene Chat: Fink: 60.00
+Scene Conference: Fink: 59.25
+Scene Sponza: Fink: 56.03
+Scene LostEmpire: Fink: 59.20
+Scene Prototype: Fink: 58.00
+Scene SciFiCity: Fink: 44.97
+Scene UnityChan: Fink: 58.14
+Fink: 43.6 60.0 59.2 56.0 59.2 58.0 45.0 58.1 
+Avg Fink: 52.35 19.10ms
+
+Scene Bistro: SPI: 25.41
+Scene Chat: SPI: 60.00
+Scene Conference: SPI: 60.00
+Scene Sponza: SPI: 48.35
+Scene LostEmpire: SPI: 34.57
+Scene Prototype: SPI: 47.35
+Scene SciFiCity: SPI: 48.07
+Scene UnityChan: SPI: 60.00
+SPI: 25.4 60.0 60.0 48.4 34.6 47.4 48.1 60.0 
+Avg SPI: 41.76 23.94ms
+
+Quest2
+Scene Bistro: YORO: 90.12
+Scene Chat: YORO: 120.00
+Scene Conference: YORO: 120.00
+Scene Sponza: YORO: 120.00
+Scene LostEmpire: YORO: 120.00
+Scene Prototype: YORO: 119.94
+Scene SciFiCity: YORO: 93.18
+Scene UnityChan: YORO: 120.00
+YORO: 90.1 120.0 120.0 120.0 120.0 119.9 93.2 120.0 
+Avg YORO: 108.17 9.24ms
+
+Scene Bistro: Conventional: 77.52
+Scene Chat: Conventional: 119.78
+Scene Conference: Conventional: 119.65
+Scene Sponza: Conventional: 119.63
+Scene LostEmpire: Conventional: 120.00
+Scene Prototype: Conventional: 114.03
+Scene SciFiCity: Conventional: 74.60
+Scene UnityChan: Conventional: 120.00
+Conventional: 77.5 119.8 119.7 119.6 120.0 114.0 74.6 120.0 
+Avg Conventional: 100.92 9.91ms
+
+Scene Bistro: Fink: 56.30
+Scene Chat: Fink: 110.56
+Scene Conference: Fink: 113.35
+Scene Sponza: Fink: 95.93
+Scene LostEmpire: Fink: 76.19
+Scene Prototype: Fink: 94.54
+Scene SciFiCity: Fink: 78.99
+Scene UnityChan: Fink: 113.50
+Fink: 56.3 110.6 113.3 95.9 76.2 94.5 79.0 113.5 
+Avg Fink: 80.86 12.37ms
+
+Scene Bistro: SPI: 76.69
+Scene Chat: SPI: 120.00
+Scene Conference: SPI: 119.65
+Scene Sponza: SPI: 120.00
+Scene LostEmpire: SPI: 120.00
+Scene Prototype: SPI: 112.31
+Scene SciFiCity: SPI: 99.01
+Scene UnityChan: SPI: 119.25
+SPI: 76.7 120.0 119.7 120.0 120.0 112.3 99.0 119.2 
+Avg SPI: 105.74 9.46ms
+
+Honor30
+Scene Bistro: YORO: 50.26
+Scene Chat: YORO: 68.62
+Scene Conference: YORO: 58.37
+Scene Sponza: YORO: 49.51
+Scene LostEmpire: YORO: 48.63
+Scene Prototype: YORO: 53.17
+Scene SciFiCity: YORO: 58.54
+Scene UnityChan: YORO: 58.67
+YORO: 50.3 68.6 58.4 49.5 48.6 53.2 58.5 58.7 
+Avg YORO: 54.05
+
+Scene Bistro: Conventional: 54.11
+Scene Chat: Conventional: 69.33
+Scene Conference: Conventional: 60.06
+Scene Sponza: Conventional: 50.66
+Scene LostEmpire: Conventional: 49.59
+Scene Prototype: Conventional: 54.27
+Scene SciFiCity: Conventional: 59.06
+Scene UnityChan: Conventional: 59.11
+Conventional: 54.1 69.3 60.1 50.7 49.6 54.3 59.1 59.1 
+Avg Conventional: 55.42
+
+Scene Bistro: Fink: 50.06
+Scene Chat: Fink: 68.05
+Scene Conference: Fink: 58.10
+Scene Sponza: Fink: 49.32
+Scene LostEmpire: Fink: 48.16
+Scene Prototype: Fink: 53.24
+Scene SciFiCity: Fink: 58.61
+Scene UnityChan: Fink: 58.49
+Fink: 50.1 68.0 58.1 49.3 48.2 53.2 58.6 58.5 
+Avg Fink: 53.88
+
+Scene Bistro: SPI: 50.40
+Scene Chat: SPI: 68.76
+Scene Conference: SPI: 58.29
+Scene Sponza: SPI: 49.48
+Scene LostEmpire: SPI: 49.13
+Scene Prototype: SPI: 53.98
+Scene SciFiCity: SPI: 58.79
+Scene UnityChan: SPI: 59.00
+SPI: 50.4 68.8 58.3 49.5 49.1 54.0 58.8 59.0 
+Avg SPI: 54.45
+
+Honor8
+Scene Bistro: YORO: 50.62
+Scene Chat: YORO: 68.57
+Scene Conference: YORO: 58.85
+Scene Sponza: YORO: 49.76
+Scene LostEmpire: YORO: 48.96
+Scene Prototype: YORO: 53.96
+Scene SciFiCity: YORO: 58.95
+Scene UnityChan: YORO: 59.17
+YORO: 50.6 68.6 58.8 49.8 49.0 54.0 58.9 59.2 
+Avg YORO: 54.50
+
+Scene Bistro: Conventional: 55.03
+Scene Chat: Conventional: 70.14
+Scene Conference: Conventional: 60.59
+Scene Sponza: Conventional: 51.42
+Scene LostEmpire: Conventional: 50.45
+Scene Prototype: Conventional: 54.95
+Scene SciFiCity: Conventional: 60.26
+Scene UnityChan: Conventional: 59.55
+Conventional: 55.0 70.1 60.6 51.4 50.5 55.0 60.3 59.6 
+Avg Conventional: 56.23
+
+Scene Bistro: Fink: 54.29
+Scene Chat: Fink: 70.21
+Scene Conference: Fink: 60.21
+Scene Sponza: Fink: 51.07
+Scene LostEmpire: Fink: 50.25
+Scene Prototype: Fink: 54.58
+Scene SciFiCity: Fink: 59.22
+Scene UnityChan: Fink: 59.12
+Fink: 54.3 70.2 60.2 51.1 50.2 54.6 59.2 59.1 
+Avg Fink: 55.72
+
+Scene Bistro: SPI: 92.80
+Scene Chat: SPI: 111.28
+Scene Conference: SPI: 101.40
+Scene Sponza: SPI: 92.22
+Scene LostEmpire: SPI: 91.43
+Scene Prototype: SPI: 96.91
+Scene SciFiCity: SPI: 101.47
+Scene UnityChan: SPI: 102.90
+SPI: 92.8 111.3 101.4 92.2 91.4 96.9 101.5 102.9 
+Avg SPI: 97.32
+
+Honor30s
+Scene Bistro: YORO: 50.00
+Scene Chat: YORO: 68.10
+Scene Conference: YORO: 58.06
+Scene Sponza: YORO: 49.13
+Scene LostEmpire: YORO: 48.81
+Scene Prototype: YORO: 53.34
+Scene SciFiCity: YORO: 58.44
+Scene UnityChan: YORO: 58.59
+YORO: 50.0 68.1 58.1 49.1 48.8 53.3 58.4 58.6 
+Avg YORO: 53.95
+
+Scene Bistro: Conventional: 54.12
+Scene Chat: Conventional: 69.14
+Scene Conference: Conventional: 60.16
+Scene Sponza: Conventional: 50.44
+Scene LostEmpire: Conventional: 50.35
+Scene Prototype: Conventional: 54.21
+Scene SciFiCity: Conventional: 58.95
+Scene UnityChan: Conventional: 59.06
+Conventional: 54.1 69.1 60.2 50.4 50.4 54.2 58.9 59.1 
+Avg Conventional: 55.50
+
+Scene Bistro: Fink: 53.50
+Scene Chat: Fink: 69.48
+Scene Conference: Fink: 60.09
+Scene Sponza: Fink: 50.39
+Scene LostEmpire: Fink: 49.32
+Scene Prototype: Fink: 54.11
+Scene SciFiCity: Fink: 58.48
+Scene UnityChan: Fink: 58.59
+Fink: 53.5 69.5 60.1 50.4 49.3 54.1 58.5 58.6 
+Avg Fink: 55.10
+
+Scene Bistro: SPI: 50.43
+Scene Chat: SPI: 68.86
+Scene Conference: SPI: 58.91
+Scene Sponza: SPI: 49.95
+Scene LostEmpire: SPI: 49.22
+Scene Prototype: SPI: 54.69
+Scene SciFiCity: SPI: 59.14
+Scene UnityChan: SPI: 60.45
+SPI: 50.4 68.9 58.9 50.0 49.2 54.7 59.1 60.5 
+Avg SPI: 54.93
+
+SamsungS21
+Scene Bistro: YORO: 53.22
+Scene Chat: YORO: 72.00
+Scene Conference: YORO: 62.00
+Scene Sponza: YORO: 53.00
+Scene LostEmpire: YORO: 52.00
+Scene Prototype: YORO: 58.01
+Scene SciFiCity: YORO: 63.42
+Scene UnityChan: YORO: 63.00
+YORO: 53.2 72.0 62.0 53.0 52.0 58.0 63.4 63.0 
+Avg YORO: 58.00
+
+Scene Bistro: Conventional: 58.81
+Scene Chat: Conventional: 74.00
+Scene Conference: Conventional: 64.84
+Scene Sponza: Conventional: 55.35
+Scene LostEmpire: Conventional: 54.16
+Scene Prototype: Conventional: 59.27
+Scene SciFiCity: Conventional: 66.52
+Scene UnityChan: Conventional: 68.09
+Conventional: 58.8 74.0 64.8 55.3 54.2 59.3 66.5 68.1 
+Avg Conventional: 60.99
+
+Scene Bistro: Fink: 59.22
+Scene Chat: Fink: 74.00
+Scene Conference: Fink: 64.60
+Scene Sponza: Fink: 55.42
+Scene LostEmpire: Fink: 54.86
+Scene Prototype: Fink: 59.31
+Scene SciFiCity: Fink: 64.13
+Scene UnityChan: Fink: 63.90
+Fink: 59.2 74.0 64.6 55.4 54.9 59.3 64.1 63.9 
+Avg Fink: 60.39
+
+Scene Bistro: SPI: 50.14
+Scene Chat: SPI: 68.00
+Scene Conference: SPI: 58.00
+Scene Sponza: SPI: 49.28
+Scene LostEmpire: SPI: 48.35
+Scene Prototype: SPI: 53.97
+Scene SciFiCity: SPI: 58.67
+Scene UnityChan: SPI: 59.00
+SPI: 50.1 68.0 58.0 49.3 48.4 54.0 58.7 59.0 
+Avg SPI: 54.10
+
+Mi6
+Scene Bistro: YORO: 53.76
+Scene Chat: YORO: 71.10
+Scene Conference: YORO: 62.00
+Scene Sponza: YORO: 52.00
+Scene LostEmpire: YORO: 52.00
+Scene Prototype: YORO: 58.01
+Scene SciFiCity: YORO: 63.64
+Scene UnityChan: YORO: 63.00
+YORO: 53.8 71.1 62.0 52.0 52.0 58.0 63.6 63.0 
+Avg YORO: 57.98
+
+Scene Bistro: Conventional: 61.37
+Scene Chat: Conventional: 77.29
+Scene Conference: Conventional: 67.52
+Scene Sponza: Conventional: 58.20
+Scene LostEmpire: Conventional: 57.51
+Scene Prototype: Conventional: 61.76
+Scene SciFiCity: Conventional: 66.47
+Scene UnityChan: Conventional: 66.41
+Conventional: 61.4 77.3 67.5 58.2 57.5 61.8 66.5 66.4 
+Avg Conventional: 62.91
+
+Scene Bistro: Fink: 59.20
+Scene Chat: Fink: 75.05
+Scene Conference: Fink: 65.49
+Scene Sponza: Fink: 56.19
+Scene LostEmpire: Fink: 55.37
+Scene Prototype: Fink: 59.62
+Scene SciFiCity: Fink: 65.68
+Scene UnityChan: Fink: 66.43
+Fink: 59.2 75.0 65.5 56.2 55.4 59.6 65.7 66.4 
+Avg Fink: 61.23
+
+Scene Bistro: SPI: 50.25
+Scene Chat: SPI: 68.00
+Scene Conference: SPI: 58.00
+Scene Sponza: SPI: 49.41
+Scene LostEmpire: SPI: 48.98
+Scene Prototype: SPI: 54.04
+Scene SciFiCity: SPI: 58.62
+Scene UnityChan: SPI: 59.15
+SPI: 50.3 68.0 58.0 49.4 49.0 54.0 58.6 59.1 
+Avg SPI: 54.26
+
+SamsungS10
+Scene Bistro: YORO: 53.72
+Scene Chat: YORO: 72.00
+Scene Conference: YORO: 62.00
+Scene Sponza: YORO: 53.00
+Scene LostEmpire: YORO: 52.00
+Scene Prototype: YORO: 58.00
+Scene SciFiCity: YORO: 64.61
+Scene UnityChan: YORO: 65.00
+YORO: 53.7 72.0 62.0 53.0 52.0 58.0 64.6 65.0 
+Avg YORO: 58.45
+
+Scene Bistro: Conventional: 61.24
+Scene Chat: Conventional: 76.00
+Scene Conference: Conventional: 66.60
+Scene Sponza: Conventional: 57.23
+Scene LostEmpire: Conventional: 56.09
+Scene Prototype: Conventional: 61.07
+Scene SciFiCity: Conventional: 66.14
+Scene UnityChan: Conventional: 65.12
+Conventional: 61.2 76.0 66.6 57.2 56.1 61.1 66.1 65.1 
+Avg Conventional: 62.13
+
+Scene Bistro: Fink: 60.64
+Scene Chat: Fink: 76.00
+Scene Conference: Fink: 66.03
+Scene Sponza: Fink: 57.41
+Scene LostEmpire: Fink: 56.14
+Scene Prototype: Fink: 61.05
+Scene SciFiCity: Fink: 65.65
+Scene UnityChan: Fink: 65.00
+Fink: 60.6 76.0 66.0 57.4 56.1 61.0 65.6 65.0 
+Avg Fink: 61.90
+
+Scene Bistro: SPI: 50.34
+Scene Chat: SPI: 68.00
+Scene Conference: SPI: 58.00
+Scene Sponza: SPI: 49.50
+Scene LostEmpire: SPI: 48.39
+Scene Prototype: SPI: 53.79
+Scene SciFiCity: SPI: 58.83
+Scene UnityChan: SPI: 59.00
+SPI: 50.3 68.0 58.0 49.5 48.4 53.8 58.8 59.0 
+Avg SPI: 54.17
+
+Quest2
+Scene Bistro: YORO: 53.86
+Scene Chat: YORO: 71.00
+Scene Conference: YORO: 61.08
+Scene Sponza: YORO: 52.71
+Scene LostEmpire: YORO: 51.08
+Scene Prototype: YORO: 58.21
+Scene SciFiCity: YORO: 64.66
+Scene UnityChan: YORO: 64.87
+YORO: 53.9 71.0 61.1 52.7 51.1 58.2 64.7 64.9 
+Avg YORO: 58.17
+
+Scene Bistro: Conventional: 54.05
+Scene Chat: Conventional: 72.05
+Scene Conference: Conventional: 62.24
+Scene Sponza: Conventional: 53.17
+Scene LostEmpire: Conventional: 52.14
+Scene Prototype: Conventional: 58.28
+Scene SciFiCity: Conventional: 67.05
+Scene UnityChan: Conventional: 67.37
+Conventional: 54.0 72.0 62.2 53.2 52.1 58.3 67.1 67.4 
+Avg Conventional: 59.24
+
+Scene Bistro: Fink: 54.02
+Scene Chat: Fink: 72.05
+Scene Conference: Fink: 62.34
+Scene Sponza: Fink: 53.39
+Scene LostEmpire: Fink: 52.38
+Scene Prototype: Fink: 58.47
+Scene SciFiCity: Fink: 65.00
+Scene UnityChan: Fink: 65.54
+Fink: 54.0 72.0 62.3 53.4 52.4 58.5 65.0 65.5 
+Avg Fink: 58.83
+
+Scene Bistro: SPI: 53.40
+Scene Chat: SPI: 71.00
+Scene Conference: SPI: 61.04
+Scene Sponza: SPI: 52.67
+Scene LostEmpire: SPI: 51.01
+Scene Prototype: SPI: 59.84
+Scene SciFiCity: SPI: 65.25
+Scene UnityChan: SPI: 64.14
+SPI: 53.4 71.0 61.0 52.7 51.0 59.8 65.2 64.1 
+Avg SPI: 58.39
+

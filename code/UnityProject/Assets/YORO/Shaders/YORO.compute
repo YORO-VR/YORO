@@ -1,0 +1,139 @@
+#pragma kernel ReprojectorQuality
+RWTexture2D<half4> output_rgb;
+Texture2D<float2> shift_buffer;
+Texture2D<float4> rgb_buffer;
+
+half tex_width;
+
+[numthreads(1, 64, 1)]
+void ReprojectorQuality(uint2 id : SV_DispatchThreadID) {
+    uint last_x = 0;
+    float last_shift = 0;
+
+    for (int i = 0; i < tex_width; ++i) {    // For left,  for right is  int i = tex_width; i > 0; i--
+        const uint2 xy = uint2(i, id.y);
+        const half2 shift_depth = shift_buffer[xy];
+        const float shift = shift_depth.x;
+        if (shift > 1) { // Fix blind spot at the right edge of image.
+            const uint new_x = shift * tex_width + 0.5f;
+            if (new_x > last_x + 1) {
+                for (int k = last_x + 1; k < new_x; k++) {
+                    output_rgb[uint2(k, id.y)] = half4(-last_shift, shift_depth.y, shift - last_shift, 0);
+                }
+            }
+            return;
+        }
+        const uint new_x = shift * tex_width + 0.5f;
+        const uint2 new_xy = uint2(new_x, id.y);
+
+        if (last_x == 0) {
+            for (int k = 0; k < new_x; k++) {
+                output_rgb[uint2(k, id.y)] = half4(shift, shift_depth.y, shift, 0);
+            }
+        }
+        else if (new_x > last_x + 1) {
+            for (int k = last_x + 1; k < new_x; k++) {
+                output_rgb[uint2(k, id.y)] = half4(-last_shift, shift_depth.y, shift - last_shift, 0);
+            }
+        }
+
+        if (output_rgb[new_xy].w == 0) {
+            const half4 color = rgb_buffer[xy];
+            output_rgb[new_xy] = half4(color.xyz, shift_depth.y + 0.0001f);
+        }
+        last_x = new_x;
+        last_shift = shift;
+    }
+}
+
+#pragma kernel ReprojectorPerformance
+RWTexture2D<half2> output_shift;
+half tex_width_reduced;
+
+[numthreads(1, 64, 1)]
+void ReprojectorPerformance(uint2 id : SV_DispatchThreadID) {
+    uint last_x = 0;
+    half reprojected_shift = 0;
+
+    for (int i = 0; i < tex_width_reduced; ++i) {    // For left,  for right is  int i = tex_width; i > 0; i--
+        const uint2 xy = uint2(i, id.y);
+        const half shift = shift_buffer[xy].x;
+        if (shift > 1) { // Fix blind spot at the right edge of image.
+            const uint pixel_x = shift * tex_width_reduced + 0.5f;
+            if (pixel_x > last_x + 1) {
+                for (int k = last_x + 1; k < pixel_x; k++) {
+                    output_shift[uint2(k, id.y)] = half2(reprojected_shift, 1);
+                }
+            }
+            return;
+        }
+        const uint new_x = shift * tex_width_reduced + 0.5f;
+        const uint2 new_xy = uint2(new_x, id.y);
+
+        if (last_x == 0) {
+            reprojected_shift = i / tex_width;
+            for (int k = 0; k < new_x; k++) {
+                output_shift[uint2(k, id.y)] = half2(reprojected_shift, 1);
+            }
+        }
+        else if (new_x > last_x + 1) {
+            for (int k = last_x + 1; k < new_x; k++) {
+                output_shift[uint2(k, id.y)] = half2(reprojected_shift, 1);
+            }
+        }
+
+        reprojected_shift = i / tex_width_reduced;
+        if (output_shift[new_xy].g == 0) {
+            output_shift[new_xy] = half2(reprojected_shift, 1);
+        }
+        last_x = new_x;
+    }
+}
+
+#pragma kernel ReprojectorPerformanceWithPatcher
+RWTexture2D<half4> output_shift_with_patcher;
+
+[numthreads(1, 64, 1)]
+void ReprojectorPerformanceWithPatcher(uint2 id : SV_DispatchThreadID) {
+    uint last_x = 0;
+    half reprojected_shift = 0;
+    half last_shift = 0;
+
+    for (int i = 0; i < tex_width_reduced; ++i) {    // For left,  for right is  int i = tex_width; i > 0; i--
+        const uint2 xy = uint2(i, id.y);
+        const half2 shift_depth = shift_buffer[xy];
+        const half shift = shift_depth.x;
+        if (shift > 1) { // Fix blind spot at the right edge of image.
+            const uint pixel_x = shift * tex_width_reduced + 0.5f;
+            if (pixel_x > last_x + 1) {
+                for (int k = last_x + 1; k < pixel_x; k++) {
+                    output_shift_with_patcher[uint2(k, id.y)] = half4(reprojected_shift, 
+                        (k - last_x - 1)/tex_width_reduced, shift - last_shift, 0);
+                }
+            }
+            return;
+        }
+        const uint new_x = shift * tex_width_reduced + 0.5f;
+        const uint2 new_xy = uint2(new_x, id.y);
+
+        if (last_x == 0) {
+            reprojected_shift = i / tex_width;
+            for (int k = 0; k < new_x; k++) {
+                output_shift_with_patcher[uint2(k, id.y)] = half4(reprojected_shift, k / tex_width_reduced, shift, 0);
+            }
+        }
+        else if (new_x > last_x + 1) {
+            for (int k = last_x + 1; k < new_x; k++) {
+                output_shift_with_patcher[uint2(k, id.y)] = half4(reprojected_shift, 
+                    (k - last_x - 1) / tex_width_reduced, shift - last_shift, 0);
+            }
+        }
+
+        reprojected_shift = i / tex_width_reduced;
+        if (output_shift_with_patcher[new_xy].w == 0) {
+            output_shift_with_patcher[new_xy] = half4(reprojected_shift, 0, 0, 1);
+        }
+        last_x = new_x;
+        last_shift = shift;
+    }
+}
