@@ -1,6 +1,6 @@
-# YORO
+# EffVR
 ## Description
-This is YORO's open source data and code.
+This is EffVR's open source data and code.
 
 This directory contains:
 - code: Contains Unity project, python code and a build for android.
