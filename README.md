@@ -14,6 +14,21 @@ This directory contains:
 - Execute the `setup.cmd`
 - Extract the zip file in `./code/Compiled` folder
 
+# Build for Oculus Quest
+- Open the `UnityProject` using Unity 2021.3.12
+- Open `Edit -> Project Settings`
+- Click `XR Plug-in Management`
+- Click `Android`
+- Check `Oculus`
+- Click `Oculus` under the `XR Plug-in Management`
+- Click `Android`
+- Switch `Stereo Rendering Mode` to `Multi Pass`
+- Open `File -> Build Settings`
+- Click `Android`
+- Click `Switch Platform`
+- Click `Build` and select a folder.
+- Upon building finished, the built `.apk` file should be in the selected folder.
+
 ## Copyright
 This is the internal open source version of YORO, 
 please do not share it with others, 
